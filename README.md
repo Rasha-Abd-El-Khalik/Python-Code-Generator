@@ -73,5 +73,3 @@ Special thanks to the **APPLAI community** for providing a supportive learning a
 ## 🏷️ Keywords  
 `Generative AI` · `NLP` · `Python` · `LoRA` · `CodeT5` · `Code Generation` · `Machine Learning`  
 
-
-## 📂 Project Structure
